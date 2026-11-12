@@ -1,0 +1,13 @@
+name: Installer tests
+on:
+  push:
+  pull_request:
+jobs:
+  installer:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check shell syntax
+        run: bash -n install.sh scripts/install-local.sh
+      - name: Test isolated file transactions
+        run: python3 -m unittest discover -s tests -v
