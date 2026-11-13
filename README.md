@@ -15,7 +15,7 @@ Live window previews and small slanted window indicators for Omarchy's floating-
 ## Install
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/avillagran/omarchy-dock/v0.1.0/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/avillagran/omarchy-dock/v0.1.1/install.sh | bash
 ```
 
 Run from a terminal in your Omarchy desktop session. The installer downloads a pinned source archive, verifies its SHA-256, and asks for sudo only to apply the file transaction. The shell restarts afterward.
@@ -29,7 +29,7 @@ The standard clone API does not expose the dock's app library and configuration 
 ## Uninstall
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/avillagran/omarchy-dock/v0.1.0/install.sh | bash -s -- --uninstall
+curl -fsSL https://raw.githubusercontent.com/avillagran/omarchy-dock/v0.1.1/install.sh | bash -s -- --uninstall
 ```
 
 This restores the exact files present before the first managed installation. If an Omarchy update or local edit has changed any managed file, uninstall stops rather than overwriting it. Backups remain available for inspection.

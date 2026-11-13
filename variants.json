@@ -11,9 +11,9 @@
     "payload": {
       "Dock.qml": "41865719ca278f66cd30130b54bab824e6dcc4a89c3cdb410644a93916758e48",
       "DockWindow.qml": "90cfca977bfbb91523fd5f709bd9fd34ba149e338030babcb152843e823df72b",
-      "DockModel.js": "f4e44198cba7570aadb949dcf0ea44a4ebc5a8b922b0e67c9f50c60da8db82d2",
+      "DockModel.js": "2eec162d17db16a4e18a610b3f4a88cabb381ba234c77e7fe26c9bd84c304273",
       "WindowIndicator.qml": "9006521c4581882b74f73334bd7611c900effaad93ba64203d316aeb300400f4",
-      "WindowPeek.qml": "29cf5fbb90dad755f32365022b05f6ed3b01e44c747e91e9bb012728e12e29c0"
+      "WindowPeek.qml": "0d7bf5849d35043a1020f7096ebbc4488c972db8dee4a9a0d2e4f1af9933696a"
     }
   },
   "quattro": {
@@ -28,9 +28,9 @@
     "payload": {
       "Dock.qml": "9231a87ea0ab08b4a02eab654449b09d9f41118b61b386240203a6e955ad18ae",
       "DockWindow.qml": "cca34ea5b9151871332fdae73f954402d05b2e9c0c4ac64d75ccf1eac864eb93",
-      "DockModel.js": "e63f392cb052c7be9fcd9bd8072124bbe7d3eeb06ecc41893a74a5095bf152c9",
+      "DockModel.js": "70680d59f89ab19f959f103192498e1874fe0cf835290f04e9f79878dc4f3425",
       "WindowIndicator.qml": "9006521c4581882b74f73334bd7611c900effaad93ba64203d316aeb300400f4",
-      "WindowPeek.qml": "29cf5fbb90dad755f32365022b05f6ed3b01e44c747e91e9bb012728e12e29c0"
+      "WindowPeek.qml": "0d7bf5849d35043a1020f7096ebbc4488c972db8dee4a9a0d2e4f1af9933696a"
     }
   }
 }
