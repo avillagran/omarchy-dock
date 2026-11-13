@@ -1,8 +1,8 @@
 #!/bin/bash
 # Download and verify the immutable source bundle before requesting sudo.
 set -euo pipefail
-revision=f1838e9c9e11e6ccf6bc89b24625d9d68b5877bf
-checksum=96d10a06c9062123f5b689bf8b0ba47cdfe4c356917dcd19ff03ee28d2499640
+revision=4ba87893e289f5684ff0d3cc3762f21513076b09
+checksum=18428eb03d25522e765bf65749d6890a42625335071cebf1dfacdc279ecb8f6f
 case "${1:-}" in
   '' | --check | --uninstall) ;;
   *) echo 'Usage: install.sh [--check|--uninstall]' >&2; exit 1 ;;
