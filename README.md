@@ -4,7 +4,7 @@ Live window previews and small slanted window indicators for Omarchy's floating-
 
 ![Live previews and the size control](https://github.com/avillagran/omarchy-dock/releases/download/v0.1.0/after.png)
 
-[Watch the demo](https://github.com/avillagran/omarchy-dock/releases/download/v0.1.0/demo.mp4) · [Upstream PR](https://github.com/omacom/omarchy/pull/18712)
+[Watch the demo](https://github.com/avillagran/omarchy-dock/releases/download/v0.1.0/dock-demo.mp4) · [Upstream PR](https://github.com/omacom/omarchy/pull/18712)
 
 - One indicator segment per window, up to six; minimized windows are dimmed.
 - Hover an app to browse its live windows. The selected preview highlights its indicator.
